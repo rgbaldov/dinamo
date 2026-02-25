@@ -1,5 +1,10 @@
 # Image Annotation Using CVAT (Beginner Level)
 
+**Prepared by:**  
+
+[Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/)  
+**[Department of Manufacturing Engineering and Management, De La Salle University (DLSU)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**
+
 ## Learning Objectives
 After completing this lab, you should be able to:
 1. Understand the purpose of image annotation in machine learning  
