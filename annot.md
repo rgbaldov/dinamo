@@ -1,4 +1,4 @@
-# Image Annotation Using CVAT (Beginner Level)
+# Image Annotation Using CVAT
 
 **Prepared by:**  
 
