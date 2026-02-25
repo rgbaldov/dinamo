@@ -1,0 +1,2 @@
+# dinamo
+DINAMO research team
