@@ -25,15 +25,12 @@ Computer Vision Annotation Tool or [CVAT](https://github.com/opencv/cvat) is an 
 Go to: https://app.cvat.ai
 
 ### Step 2: Create an Account or Log In
-
 # PART 2: Creating a New Annotation Task
 ### Step 1: Create Task
 Click:
-
 > **Create New Task**
 
 ### Step 2: Fill in Task Details
-
 | Field | What to Enter |
 |--------|--------------|
 | Task Name | Example: `Student_Lab_Annotation` |
@@ -55,15 +52,12 @@ Add the following labels:
 👉 Enter label name  
 👉 Select **Rectangle**  
 👉 Click **Done**
-
 💡 For beginners, use **Rectangle** only.
 
 # 📂 PART 4: Upload Images
-
 1. Click **Select Files**
 2. Upload at least 5–10 images
 3. Click **Submit & Open**
-
 You will now enter the annotation workspace.
 
 # PART 5: Annotating Images (Bounding Boxes)
@@ -146,8 +140,7 @@ Repeat until all images are annotated.
 For a health analytics adaptation:
 ### Labels:
 - Pneumonia
-- Normal
-
+- Norma
 Students can:
 - Annotate chest X-rays
 - Export COCO format
