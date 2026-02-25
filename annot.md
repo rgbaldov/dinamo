@@ -14,7 +14,7 @@ After completing this lab, you should be able to:
 5. Export annotations in YOLO or COCO format  
 
 ## What is CVAT?
-[CVAT](https://github.com/opencv/cvat) (Computer Vision Annotation Tool) is an open-source, web-based annotation platform used to label images and videos for AI and computer vision applications. It is commonly used for:
+Computer Vision Annotation Tool or [CVAT](https://github.com/opencv/cvat) is an open-source, web-based annotation platform used to label images and videos for AI and computer vision applications. It is commonly used for:
 - Object Detection (Bounding Boxes)
 - Image Segmentation (Polygons)
 - Classification (Tags)
