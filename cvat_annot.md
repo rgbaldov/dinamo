@@ -31,6 +31,7 @@ Click:
 > **Create New Task**
 
 ### Step 2: Fill in Task Details
+
 | Field | What to Enter |
 |--------|--------------|
 | Task Name | Example: `Student_Lab_Annotation` |
@@ -54,7 +55,7 @@ Add the following labels:
 👉 Click **Done**
 💡 For beginners, use **Rectangle** only.
 
-# 📂 PART 4: Upload Images
+# PART 4: Upload Images
 1. Click **Select Files**
 2. Upload at least 5–10 images
 3. Click **Submit & Open**
