@@ -1,4 +1,4 @@
-# Image Annotation Using CVAT
+# Image Annotation Using Roboflow
 
 **Prepared by:**
 [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/)  
